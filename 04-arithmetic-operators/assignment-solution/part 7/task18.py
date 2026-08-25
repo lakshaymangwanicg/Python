@@ -1,9 +1,0 @@
-
-
-None + 5
-None - 5
-None * 5
-None / 5
-None // 5
-None % 5
-None ** 5
