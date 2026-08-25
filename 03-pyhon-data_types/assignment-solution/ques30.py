@@ -1,5 +1,5 @@
 value = 10
-value = 10.0
+value = 10.00
 value = "10"
 is_available = True
 is_available = "True"
