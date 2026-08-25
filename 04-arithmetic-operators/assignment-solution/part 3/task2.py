@@ -1,5 +1,5 @@
 a=2
-b=0.5
+b=0.50
 
 c = print(a+b)
 print(a-b)
