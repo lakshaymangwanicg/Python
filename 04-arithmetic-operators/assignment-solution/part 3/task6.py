@@ -7,3 +7,7 @@ c=(-4)
 d=(-2)
 print("normal divison", c/d)
 print("floor divison", c//d)
+
+print((-10)//(-3))
+print(10%(-3))
+print((-10)%(-3))
