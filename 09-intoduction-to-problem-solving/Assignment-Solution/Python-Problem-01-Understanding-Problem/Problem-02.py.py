@@ -1,5 +1,5 @@
 # Problem 2: Print a student's grade based on marks.
-#
+
 # What is being asked? Map the student's marks to the specified grade.
 # Input: The student's marks.
 # Output: A, B, C, or Fail.
