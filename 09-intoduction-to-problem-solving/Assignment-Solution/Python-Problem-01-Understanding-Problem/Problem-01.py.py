@@ -20,14 +20,9 @@
 
 first = float(input())
 
-
-
-
 second = float(input())
 
-
-
-if first > second:
+if first>second:
     print(first)
 elif second > first:
     print(second)
