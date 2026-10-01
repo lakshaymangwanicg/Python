@@ -1,4 +1,4 @@
-number = 1
-while number <= 10:
-    print(number)
-    number += 1
+num = 1
+while num <= 10:
+    print(num)
+    num += 1
