@@ -4,7 +4,7 @@ if n > 0:
     while row <= n:
         number = 1
         while number <= row:
-            print(number, end="")
+            print(number, end=" ")
             number += 1
         print()
         row += 1
