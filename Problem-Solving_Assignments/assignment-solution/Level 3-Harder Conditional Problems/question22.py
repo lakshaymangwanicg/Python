@@ -1,7 +1,7 @@
 balance = int(input(" Enter Balance Amount: "))
 withdrawal = int(input(" Enter Withdrawal Amount: "))
 
-if withdrawal > 0 and withdrawal % 100 == 0 and withdrawal <= balance and balance - withdrawal >= 500:
+if withdrawal>0 and withdrawal % 100 == 0 and withdrawal <= balance and balance - withdrawal >= 500:
     print("Withdrawal successful")
     print("Remaining balance:", balance - withdrawal)
 else:
