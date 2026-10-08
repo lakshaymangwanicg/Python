@@ -11,5 +11,5 @@ match choice:
         print("Airplane Mode")
     case 5:
         print("Exit")
-    case _6:
+    case _:
         print("Invalid Setting")

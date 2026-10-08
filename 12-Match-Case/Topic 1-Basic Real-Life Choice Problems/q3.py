@@ -11,5 +11,5 @@ match choice:
         print("Change PIN Selected")
     case 5:
         print("Exit")
-    case _6:
+    case _:
         print("Invalid Choice")
