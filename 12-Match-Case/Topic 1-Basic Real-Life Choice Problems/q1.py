@@ -7,5 +7,7 @@ match choice:
         print("You Selected Burger")
     case 3:
         print("You Selected Pasta")
-    case _:
+    case 4:
         print("You Selected Sandwich")
+    case _:
+        print("Invalid Menu Choice")
