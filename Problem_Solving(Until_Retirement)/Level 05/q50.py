@@ -1,2 +1,2 @@
-word = input("Enter a String: ")
-print(word.swapcase())
+text = input("Enter a String: ")
+print(text.swapcase())
