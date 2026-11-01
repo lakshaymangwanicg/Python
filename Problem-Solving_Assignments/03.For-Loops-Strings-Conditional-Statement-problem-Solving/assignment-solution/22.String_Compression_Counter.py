@@ -11,11 +11,10 @@
 
 
 sen = input("Enter a string: ")
-for i in range(1,len(sen),2):
+for i in range(1, len(sen), 2):
     number = sen[i]
-    for j in range(0,len(sen),2):
-        char = sen[j]
-    print(f"{int(number)*char}",end=" ")
+    char = sen[i-1]
+    print(char*int(number),end=" ")
 
 
 # sen = input("Enter a string: ")
