@@ -42,7 +42,7 @@
 
 # def make_sentence(subject, verb, objects):
 #     return subject + " " + verb + " " + objects
-# print(make_sentence(verb="is", subject="He", objects="boy."))
+# print(make_sentence(verb="is", subject="she", objects="boy."))
 
 
 
