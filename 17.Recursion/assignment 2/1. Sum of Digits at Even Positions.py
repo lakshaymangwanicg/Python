@@ -1,7 +1,7 @@
-n = int(input("Enter a Number: "))
+# n = int(input("Enter a Number: "))
 def sum(n):
-    if n == 0:
-        return
-    count = 0
-    sum() 
-print()
+    if n <= 10:
+        return 0
+    m = (n//10)%10
+    return m + (sum(n//100))
+print(sum(583246))
