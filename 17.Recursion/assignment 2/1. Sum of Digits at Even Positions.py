@@ -5,3 +5,4 @@ def sum(n):
     m = (n//10)%10
     return m + (sum(n//100))
 print(sum(583246))
+print(sum(5832460))
